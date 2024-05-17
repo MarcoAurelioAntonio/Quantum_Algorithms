@@ -19,10 +19,10 @@ Shor's algorithm is a quantum algorithm for integer factorization. It exponentia
 ### 4. Quantum Phase Estimation (QPE)
 Quantum Phase Estimation is a fundamental algorithm used to determine the eigenvalues of a unitary operator. It forms the basis for many other quantum algorithms, including Shor's algorithm and algorithms for solving linear systems of equations.
 
-### 5. *** Once the above algorithms are developed, I will add more
+##### 5. *** Once the above algorithms are developed, I will add more ***
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements. Ensure that your code follows the project's coding standards and includes appropriate documentation.
 
 ## License
-This project is licensed under the MIT License. See the ./LICENSE file for details.
+This project is licensed under the [MIT](./LICENSE) license.
