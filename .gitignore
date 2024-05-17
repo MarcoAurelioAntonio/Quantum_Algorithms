@@ -1,0 +1,5 @@
+# hide API token
+.env
+
+# Ignore Doc_help folder
+/Doc_help
