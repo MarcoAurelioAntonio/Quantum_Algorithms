@@ -3,3 +3,6 @@
 
 # Ignore Doc_help folder
 /Doc_help
+
+# Ignore n_qubits_QFT.ipynb file
+n_qubits_QFT.ipynb
