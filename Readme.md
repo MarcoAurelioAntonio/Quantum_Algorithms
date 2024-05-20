@@ -7,7 +7,7 @@ This repository contains the implementation of various quantum algorithms using 
 
 ## Algorithms Implemented
 
-### 1. Quantum Fourier Transform (QFT)
+### 1. Quantum Fourier Transform (QFT) :white_check_mark: DONE
 The Quantum Fourier Transform is a quantum analog of the discrete Fourier transform. It is a crucial component in many quantum algorithms, including Shor's algorithm for factoring integers. QFT transforms a quantum state into its frequency domain representation, allowing for efficient computation of periodicity.
 
 ### 2. Grover's Search Algorithm
