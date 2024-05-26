@@ -16,7 +16,7 @@ Grover's algorithm provides a quadratic speedup for unstructured search problems
 ### 3. Shor's Algorithm
 Shor's algorithm is a quantum algorithm for integer factorization. It exponentially accelerates the factoring process, breaking widely used cryptographic systems like RSA. Shor's algorithm uses quantum Fourier transform and modular exponentiation to achieve this speedup.
 
-### 4. Quantum Phase Estimation (QPE)
+### 4. Quantum Phase Estimation (QPE) :white_check_mark: DONE
 Quantum Phase Estimation is a fundamental algorithm used to determine the eigenvalues of a unitary operator. It forms the basis for many other quantum algorithms, including Shor's algorithm and algorithms for solving linear systems of equations.
 
 ##### 5. *** Once the above algorithms are developed, I will add more ***
